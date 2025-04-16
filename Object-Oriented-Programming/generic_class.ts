@@ -14,6 +14,10 @@ class Box<T> {
     }
 }
 
+
+
+
+
 // Usage with different types
 const numberBox = new Box<number>(42);
 const stringBox = new Box<string>("Hello TypeScript");

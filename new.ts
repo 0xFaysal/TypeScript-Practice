@@ -1,9 +1,4 @@
-function printAge(age :number){
-    console.log(`My age is ${age}`);
-}
+let hello:string = "Hello World"; // string
 
-function printName(name :string){
-    console.log(`My name is ${name}`);
-}
-
-
+console.log(hello); // Hello World
+console.log(hello.length); // 11
